@@ -23,5 +23,7 @@ Técnicas de Bypass UAC e elevação para autoridade máxima (SYSTEM).
 ### 4. 🛡️ [Formas de espionagem e limpeza de rastros](Post-Exploitation-Actions.md)
 Algumas formas de você espionar a vítima e limpar seus rastros antes que percebem.
 
+### 5. 🌐 [Scannear a rede e automatizar exploits](Network-Pivot-Automation.md)
+Fazer varredura da rede da vitima e automatizar tarefas repetidas
 ---
 **[!] ATENÇÃO:** Documentação pessoal de estudos. Uso estritamente educacional em ambiente de laboratório.
