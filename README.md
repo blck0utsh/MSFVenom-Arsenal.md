@@ -20,5 +20,8 @@ Geração de executáveis maliciosos para diferentes arquiteturas (Windows/Linux
 ### 3. 🛡️ [Escalonamento de Privilégios](Escalonamento_de_Privilegios.md)
 Técnicas de Bypass UAC e elevação para autoridade máxima (SYSTEM).
 
+### 4. 🛡️ [Formas de espionagem e limpeza de rastros](Post-Exploitation-Actions.md)
+Algumas formas de você espionar a vítima e limpar seus rastros antes que percebem.
+
 ---
 **[!] ATENÇÃO:** Documentação pessoal de estudos. Uso estritamente educacional em ambiente de laboratório.
